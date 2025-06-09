@@ -17,10 +17,14 @@ Para rodar o projeto em seu PC você precisa de:
 
 2 JAVA JDK 8U202 instalada
 
-3 Variaveis do sistema configuradas assim:
+3 Baixar o cucumber dentro da IDE
+
+4 Variaveis do sistema configuradas assim:
 crie uma nova pasta e coloque JAVA_HOME e abaixo coloque o diretorio do JDK
 após isso vá em PATH e adicione %JAVA_HOME%\bin
 e repita isso na mesma caixa de baixo!
 Após isso abra a IDE vá WINDOW,Reference, java, Installer jre, e configure o diretorio para o JDK no seu computador, e por fim clique em aplicar
 
-4 OBS: caso não funcione, atualize o chromeDriver para a versao atual, dentro da IDE na pasta driver no projeto!
+5 OBS: caso não funcione, atualize o chromeDriver para a versao atual, dentro da IDE na pasta driver no projeto!
+
+Tecnologias usadas: Java,selenium,cucumber e junit!
