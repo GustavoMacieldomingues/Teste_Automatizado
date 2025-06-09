@@ -11,6 +11,8 @@ Onde o objetivo era a maquina seguir uma sequência de ações a seguir:
 
 4 clicar na lupa de pesquisa
 
+5 Encontrar o produto
+
 Para rodar o projeto em seu PC você precisa de:
 
 1 IDE Eclipse 2023-03 versão 4.27 instalada
